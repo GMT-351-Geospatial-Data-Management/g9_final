@@ -3,7 +3,10 @@
 
 # Project Team:
 
-Atakan Demirezen - 2200674053
+# Atakan Demirezen - 2200674053
+GeoServer Configuration
+Workspace settings within GeoServer
+Collaboration on data integration process
 
 
 Begüm Özer - 2200674019
