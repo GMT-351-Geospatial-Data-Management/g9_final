@@ -6,7 +6,20 @@ Begüm Özer       - 2200674019 /
 Samet Bucak      - 2200674026 / 
 Oğuzhan Tosun    - 2200674044 /
 
-First of all, utilizing the advanced capabilities of the Quick OSM library within the QGIS application, we seamlessly retrieved the data pertaining to charging stations in Poland. By crafting Python code tailored to our desired project, we adeptly reorganized our data to suit our objectives. We provided the connection between PostgreSQL and GeoServer via Postgis. This image shows that data is being loaded into the database.We installed the postgis plugin to the database. Empowering our project with the dynamic capabilities of GeoServer, we crafted a WorkSpace within its framework.We did the important workspace settings.We made the data from postgis and postgresql database ready for use with GeoServer. We chose the style to visualize the data in accordance with our project. Finally, we showed how we display the data in the postgreSQL database via geoserver. In summary, in this application, we  informed about the charging stations on the map. Thanks to the map base we use, it provides a useful system to the users by not only finding out the nearest charging station of a vehicle whose battery is running out, but also seeing whether it is currently available or unavailable, its level, capacity and some other features.
+Charging Stations Map Application
+Overview
+This application utilizes the powerful capabilities of the Quick OSM library within the QGIS application to seamlessly retrieve data related to charging stations in Poland. The process involves crafting custom Python code tailored to the project's objectives and efficiently reorganizing the data.
 
+Data Integration
+We established a connection between PostgreSQL and GeoServer using PostGIS, ensuring smooth data flow into the database. The integration was facilitated by installing the PostGIS plugin. The image provided showcases the successful loading of data into the database.
+
+GeoServer Configuration
+Empowering our project with the dynamic capabilities of GeoServer, we meticulously crafted a Workspace within its framework. Essential workspace settings were configured, and the data from the PostGIS and PostgreSQL database was prepared for use with GeoServer.
+
+Visualization
+We chose a suitable style to visualize the data in alignment with our project goals. This step is crucial as it determines how users will perceive the information on the map. The dynamic nature of GeoServer allowed us to showcase the data from the PostgreSQL database effectively.
+
+Application Summary
+In summary, this application serves as an informative tool for locating charging stations on the map. Leveraging the chosen map base, it provides users with a practical system for not only identifying the nearest charging station for a vehicle with a low battery but also checking its availability, current status, level, capacity, and other relevant features.
 
 https://hacettepeedutr-my.sharepoint.com/:v:/g/personal/oguzhantosun_hacettepe_edu_tr/EYqVh6eVpYNMkTEqOEPx7aABVFjk-r77atRNfHDf14ObEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dM8Nua
