@@ -3,26 +3,26 @@
 
 # Project Team:
 
-Atakan Demirezen - 2200674053
+# Atakan Demirezen - 2200674053
 -GeoServer Configuration
 -Workspace settings within GeoServer
 -Collaboration on data integration process
 
 
-Begüm Özer - 2200674019
+# Begüm Özer - 2200674019
 -Visualization
 -Choosing and implementing a suitable style for data representation on the map
 -Collaboration on data integration process
 
 
 
-Samet Bucak - 2200674026
+# Samet Bucak - 2200674026
 -Data Integration
 -Collaboration on establishing the connection between PostgreSQL and GeoServer using PostGIS
 -Installation and setup of the PostGIS plugin
 
 
-Oğuzhan Tosun - 2200674044
+# Oğuzhan Tosun - 2200674044
 -Establishing the connection between PostgreSQL and GeoServer using PostGIS
 -Quick OSM Library Utilization
 -Crafting custom Python code for seamless data retrieval from charging stations in Poland
