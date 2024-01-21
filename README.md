@@ -1,7 +1,7 @@
 
 ![hacettepe-universitesi-logo](https://github.com/GMT-351-Geospatial-Data-Management/g9_final/assets/152903479/9c3f240a-db7d-4699-bb20-e4d418bb6357)
 
-Project Team:
+# Project Team:
 
 Atakan Demirezen - 2200674053
 
