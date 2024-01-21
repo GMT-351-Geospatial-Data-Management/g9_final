@@ -6,7 +6,7 @@ Begüm Özer       - 2200674019 /
 Samet Bucak      - 2200674026 / 
 Oğuzhan Tosun    - 2200674044 /
 
-Charging Stations Map Application
+#Charging Stations Map Application
 Overview
 This application utilizes the powerful capabilities of the Quick OSM library within the QGIS application to seamlessly retrieve data related to charging stations in Poland. The process involves crafting custom Python code tailored to the project's objectives and efficiently reorganizing the data.
 
