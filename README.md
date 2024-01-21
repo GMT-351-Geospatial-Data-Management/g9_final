@@ -1,3 +1,6 @@
+
+![hacettepe-universitesi-logo](https://github.com/GMT-351-Geospatial-Data-Management/g9_final/assets/152903479/9c3f240a-db7d-4699-bb20-e4d418bb6357)
+
 Atakan Demirezen - 2200674053 /
 Begüm Özer       - 2200674019 /
 Samet Bucak      - 2200674026 / 
