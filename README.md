@@ -4,6 +4,7 @@
 # Project Team:
 
 _**Atakan Demirezen - 2200674053**_
+
 -GeoServer Configuration
 
 -Workspace settings within GeoServer
@@ -12,6 +13,7 @@ _**Atakan Demirezen - 2200674053**_
 
 
 _**Begüm Özer - 2200674019**_
+
 -Visualization
 
 -Choosing and implementing a suitable style for data representation on the map
@@ -21,6 +23,7 @@ _**Begüm Özer - 2200674019**_
 
 
 _**Samet Bucak - 2200674026**_
+
 -Data Integration
 
 -Collaboration on establishing the connection between PostgreSQL and GeoServer using PostGIS
@@ -29,6 +32,7 @@ _**Samet Bucak - 2200674026**_
 
 
 _**Oğuzhan Tosun - 2200674044**_
+
 -Establishing the connection between PostgreSQL and GeoServer using PostGIS
 
 -Quick OSM Library Utilization
